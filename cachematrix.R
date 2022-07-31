@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-## setting the enviroment of the matrix and the inverse, with also setting parameters for no matrix x.
+## setting the enviroment of the matrix and the inverse, with also setting parameters where no matrix x.
 
 makeCacheMatrix <- function(x = matrix()) {
         g <- NULL
